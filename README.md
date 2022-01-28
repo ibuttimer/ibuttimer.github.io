@@ -1,5 +1,3 @@
-## Ian Buttimer
-
 <img src="assets/img/me.jpg" width="100"/>
 
 A software developer, with varied and extensive experience:
@@ -11,7 +9,8 @@ A software developer, with varied and extensive experience:
 * Full Stack Development (MongoDB/Express/Angular (Ionic)/Node.js)
 * Data Analytics (Machine Learning, Hadoop)
 
-<a href="linkedin.com/in/ianbuttimer"><img src="assets/img/LI-In-Bug.png" width="20"/></a> <a href="linkedin.com/in/ianbuttimer">linkedin.com/in/ianbuttimer</a>
+<a href="https://www.linkedin.com/in/ianbuttimer/"><img src="assets/img/LI-In-Bug.png" width="20"/></a> 
+[linkedin.com/in/ianbuttimer](https://www.linkedin.com/in/ianbuttimer/)
 
 
 ### Projects
@@ -28,19 +27,11 @@ The application consists of:
 - An [Angular](https://angular.io/) frontend application
 
 ##### Try it out
-[<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://l2cecommercefe.herokuapp.com/).
+[<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://l2cecommercefe.herokuapp.com/)
 
-
-##### Built with
-
-<a href="https://nodejs.dev/"><img src="assets/img/spring-logo.svg" width="100"/></a>[6](#sup6sup-spring-boot-and-spring-data-are-trademarks-of-pivotal-software-inc-in-the-us-and-other-countries) 
-<a href="https://angularjs.org/"><img src="assets/img/angular.png" width="40"/></a>[7](#sup7sup-angular-is-copyright-c-2010-2022-google-llc-and-licenced-under-an-mit-style-license) 
-<a href="https://www.okta.com/"><img src="assets/img/Logo_Okta_Blue_RGB.png" width="70"/></a>[8](#sup8sup-okta-is-a-trademark-of-okta-inc) 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-
-##### Code on GitHub
-
-[L2CEcommerceBe](https://github.com/ibuttimer/L2CEcommerceBe),  [L2CeCommerceFe](https://github.com/ibuttimer/L2CeCommerceFe)
+| Build with | Code on GitHub|
+|-|-|
+| <a href="https://spring.io"><img src="assets/img/spring-logo.svg" width="100"/></a><sub>6</sub> <a href="https://angularjs.org/"><img src="assets/img/angular.png" width="40"/></a><sub>7</sub> <a href="https://www.okta.com/"><img src="assets/img/Logo_Okta_Blue_RGB.png" width="70"/></a><sub>8</sub> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> | [L2CEcommerceBe](https://github.com/ibuttimer/L2CEcommerceBe),  [L2CeCommerceFe](https://github.com/ibuttimer/L2CeCommerceFe) |
 
 
 #### TeamPicker
@@ -54,21 +45,14 @@ The application consists of:
 
 
 ##### Try it out
- [<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://teampicker-fswd.herokuapp.com/).
+ [<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://teampicker-fswd.herokuapp.com/)
 
 
-##### Built with
-
-<a href="https://flask.palletsprojects.com/"><img src="[https://github.com/pallets/flask/blob/main/artwork/logo-full.svg" width="70"/></a>[10](#sup10sup-flask-is-copyright-c-2010-pallets-and-licenced-under-an-bsd-3-clause-new-or-revised-license) 
-<img src="assets/img/brand%20evolution_logo_Auth0_black.png" width="70"/></a>[9](#sup9sup-auth0-is-a-trademark-of-auth0-inc) <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/>
-
-##### Code on GitHub
-
-[TeamPicker](https://github.com/ibuttimer/L2CEcommerceBe)
+| Build with | Code on GitHub|
+|-|-|
+| <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/pallets/flask/main/artwork/logo-full.svg" width="70"/></a><sub>10</sub> <a href="https://auth0.com/"><img src="assets/img/brand%20evolution_logo_Auth0_white.png" width="70"/></a><sub>9</sub> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> | [TeamPicker](https://github.com/ibuttimer/L2CEcommerceBe) |
 
 #### CanvassTrac
-
-<img src="https://github.com/ibuttimer/canvasstrac-server/blob/master/public/images/logo.png" width="60"/>
 
 An application to collect and track the results of election campaign canvasses.
 
@@ -84,30 +68,15 @@ The application suite consists of three individual elements:
     For the use of canvassers on the ground to collect voter data.
 
 ##### Try it out
-[<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://canvasstrac.herokuapp.com/)
-
-Or watch a demonstration on [YouTube](https://www.youtube.com/watch?v=h9E-NAwXZm8). 
+[<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://canvasstrac.herokuapp.com/) or watch a demonstration on [YouTube](https://www.youtube.com/watch?v=h9E-NAwXZm8). 
 
 Canvasstrac-mobile app <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="height:40px;">
 
-
-##### Built with
-
-<a href="https://nodejs.dev/"><img src="assets/img/nodejs-new-pantone-black.svg" width="50"/></a>[1](#sup1sup-nodejs-is-a-trademark-of-joyent-inc-and-is-used-with-its-permission-we-are-not-endorsed-by-or-affiliated-with-joyent) 
-<a href="https://www.mongodb.com/"><img src="assets/img/MongoDBLogoBrand1.png" width="100"/></a>[2](#sup2sup-nodejs-is-a-trademark-of-mongodb-inc) 
-<a href="https://expressjs.com/" style="color: black;">Express</a>[3](#sup3sup-express-is-a-project-of-the-openjs-foundation) 
-<a href="https://angularjs.org/"><img src="assets/img/angular.png" width="40"/></a>[4](#sup4sup-angularjs-is-copyright-c-2010-2020-google-llc-and-licenced-under-the-mit-license) 
-<a href="https://ionicframework.com/"><img src="assets/img/Ionic_Logo.svg.png" width="90"/></a>[5](#sup5sup-ionic-is-copyright-2015-present-drifty-co-and-licenced-under-the-mit-license) 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/>
+| Build with | Code on GitHub|
+|-|-|
+| <a href="https://nodejs.dev/"><img src="assets/img/nodejs-new-pantone-black.svg" width="50"/></a><sub>1</sub> <a href="https://www.mongodb.com/"><img src="assets/img/Logo_RGB_Spring-Green.png" width="100"/></a><sub>2</sub> <a href="https://expressjs.com/" style="color: white;">Express</a> <sub>3</sub> <a href="https://angularjs.org/"><img src="assets/img/angular.png" width="40"/></a><sub>4</sub> <a href="https://ionicframework.com/"><img src="assets/img/Ionic_Logo.svg.png" width="90"/></a><sub>5</sub> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/> | [canvasstrac-server](https://github.com/ibuttimer/canvasstrac-server),  [canvasstrac-mgmt](https://github.com/ibuttimer/canvasstrac-mgmt),  [canvasstrac-mobile](https://github.com/ibuttimer/canvasstrac-mobile) |
 
 
-##### Code on GitHub
-
-[canvasstrac-server](https://github.com/ibuttimer/canvasstrac-server),  [canvasstrac-mgmt](https://github.com/ibuttimer/canvasstrac-mgmt),  [canvasstrac-mobile](https://github.com/ibuttimer/canvasstrac-mobile)
-
-
-
-</br></br>
 
 ---
 ##### <sup>1</sup> [Node.js](https://nodejs.dev/) is a trademark of Joyent, Inc. and is used with its permission. We are not endorsed by or affiliated with Joyent.
@@ -128,8 +97,10 @@ Canvasstrac-mobile app <img alt="Get it on Google Play" src="https://play.google
 
 ##### <sup>9</sup> [auth0](https://auth0.com/) is a trademark of [Auth0® Inc.](https://auth0.com/)
 
-
 ##### <sup>10</sup> [Flask](https://flask.palletsprojects.com/) is Copyright (c) 2010 Pallets. and licenced under an [BSD 3-Clause "New" or "Revised" License](https://github.com/pallets/flask/blob/main/LICENSE.rst).
+
+##### <sup>11</sup> [Heroku](https://heroku.com/) is a trademark of [salesforce.com, inc](https://www.salesforce.com/)
+
 
 
 ###### Acknowledgements
