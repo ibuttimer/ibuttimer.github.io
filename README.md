@@ -13,11 +13,11 @@ A software developer, with varied and extensive experience:
 [linkedin.com/in/ianbuttimer](https://www.linkedin.com/in/ianbuttimer/)
 
 
-### Projects
+## Projects
 A sample of the projects worked on:
 
 
-#### L2CeCommerce
+### L2CeCommerce
 
 A full stack E-commerce application.
 
@@ -26,7 +26,7 @@ The application consists of:
 - A [Spring Boot](https://spring.io/projects/spring-boot) / [Spring Data](https://spring.io/projects/spring-data) server application
 - An [Angular](https://angular.io/) frontend application
 
-##### Try it out
+#### Try it out
 [<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://l2cecommercefe.herokuapp.com/)
 
 | Build with | Code on GitHub|
@@ -34,17 +34,13 @@ The application consists of:
 | <a href="https://spring.io"><img src="assets/img/spring-logo.svg" width="100"/></a><sub>6</sub> <a href="https://angularjs.org/"><img src="assets/img/angular.png" width="40"/></a><sub>7</sub> <a href="https://www.okta.com/"><img src="assets/img/Logo_Okta_Blue_RGB.png" width="70"/></a><sub>8</sub> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> | [L2CEcommerceBe](https://github.com/ibuttimer/L2CEcommerceBe),  [L2CeCommerceFe](https://github.com/ibuttimer/L2CeCommerceFe) |
 
 
-#### TeamPicker
+### TeamPicker
 
 A full stack application providing management of sports teams.
 
-The application consists of:
+It consists a lightweight [WSGI](https://wsgi.readthedocs.io/) web application, which serves the UI and provides database integration.
 
-- A [Spring Boot](https://spring.io/projects/spring-boot) / [Spring Data](https://spring.io/projects/spring-data) server application
-- An [Angular](https://angular.io/) frontend application
-
-
-##### Try it out
+#### Try it out
  [<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://teampicker-fswd.herokuapp.com/)
 
 
@@ -52,7 +48,7 @@ The application consists of:
 |-|-|
 | <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/pallets/flask/main/artwork/logo-full.svg" width="70"/></a><sub>10</sub> <a href="https://auth0.com/"><img src="assets/img/brand%20evolution_logo_Auth0_white.png" width="70"/></a><sub>9</sub> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> | [TeamPicker](https://github.com/ibuttimer/L2CEcommerceBe) |
 
-#### CanvassTrac
+### CanvassTrac
 
 An application to collect and track the results of election campaign canvasses.
 
@@ -67,7 +63,7 @@ The application suite consists of three individual elements:
     
     For the use of canvassers on the ground to collect voter data.
 
-##### Try it out
+#### Try it out
 [<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://canvasstrac.herokuapp.com/) or watch a demonstration on [YouTube](https://www.youtube.com/watch?v=h9E-NAwXZm8). 
 
 Canvasstrac-mobile app <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="height:40px;">
