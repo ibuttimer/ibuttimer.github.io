@@ -27,7 +27,7 @@ A full stack application platform that allows users to post opinions and comment
 
 | Build with | Code on GitHub|
 |-|-|
-| <a href="https://flask.palletsprojects.com/"><img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" width="70" style="background-color: black;"/></a><sub>11</sub> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> | [SoapBox](https://github.com/ibuttimer/soapbox) |
+| <a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" width="70" style="background-color: black;"/></a><sub>11</sub> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> | [SoapBox](https://github.com/ibuttimer/soapbox) |
 
 
 ### TeamPicker
