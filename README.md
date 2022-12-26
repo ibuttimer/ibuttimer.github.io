@@ -6,7 +6,7 @@ A software developer, with varied and extensive experience:
 * Software Quality Processes (CMMI, ISO TickIT)
 * Spring Boot, Jenkins, Docker, Microservices, Postman, JUnit
 * PostgreSQL/MySQL
-* Full Stack Development (MongoDB/Express/Angular (Ionic)/Node.js)
+* Full Stack Development (Django, MongoDB/Express/Angular (Ionic)/Node.js)
 * Data Analytics (Machine Learning, Hadoop)
 
 <a href="https://www.linkedin.com/in/ianbuttimer/"><img src="assets/img/LI-In-Bug.png" width="20"/></a> 
@@ -16,6 +16,33 @@ A software developer, with varied and extensive experience:
 ## Projects
 A sample of the projects worked on:
 
+
+### SoapBox
+
+A full stack application platform that allows users to post opinions and comments, and engage in online discussions.
+
+#### Try it out
+ [<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://soapbox-opinions.herokuapp.com/)
+
+
+| Build with | Code on GitHub|
+|-|-|
+| <a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" width="70" style="background-color: black;"/></a><sub>11</sub> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> | [SoapBox](https://github.com/ibuttimer/soapbox) |
+
+
+### TeamPicker
+
+A full stack application providing management of sports teams.
+
+It consists a lightweight [WSGI](https://wsgi.readthedocs.io/) web application, which serves the UI and provides database integration.
+
+#### Try it out
+ [<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://teampicker-fswd.herokuapp.com/)
+
+
+| Build with | Code on GitHub|
+|-|-|
+| <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/pallets/flask/main/artwork/logo-full.svg" width="70" style="background-color: white;"/></a><sub>10</sub> <a href="https://auth0.com/"><img src="assets/img/brand%20evolution_logo_Auth0_white.png" width="70"/></a><sub>9</sub> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> | [TeamPicker](https://github.com/ibuttimer/TeamPicker) |
 
 ### L2CeCommerce
 
@@ -33,20 +60,6 @@ The application consists of:
 |-|-|
 | <a href="https://spring.io"><img src="assets/img/spring-logo.svg" width="100"/></a><sub>6</sub> <a href="https://angularjs.org/"><img src="assets/img/angular.png" width="40"/></a><sub>7</sub> <a href="https://www.okta.com/"><img src="assets/img/Logo_Okta_Blue_RGB.png" width="70"/></a><sub>8</sub> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> | [L2CEcommerceBe](https://github.com/ibuttimer/L2CEcommerceBe),  [L2CeCommerceFe](https://github.com/ibuttimer/L2CeCommerceFe) |
 
-
-### TeamPicker
-
-A full stack application providing management of sports teams.
-
-It consists a lightweight [WSGI](https://wsgi.readthedocs.io/) web application, which serves the UI and provides database integration.
-
-#### Try it out
- [<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://teampicker-fswd.herokuapp.com/)
-
-
-| Build with | Code on GitHub|
-|-|-|
-| <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/pallets/flask/main/artwork/logo-full.svg" width="70"/></a><sub>10</sub> <a href="https://auth0.com/"><img src="assets/img/brand%20evolution_logo_Auth0_white.png" width="70"/></a><sub>9</sub> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> | [TeamPicker](https://github.com/ibuttimer/L2CEcommerceBe) |
 
 ### CanvassTrac
 
@@ -93,9 +106,11 @@ Canvasstrac-mobile app <img alt="Get it on Google Play" src="https://play.google
 
 ##### <sup>9</sup> [auth0](https://auth0.com/) is a trademark of [Auth0® Inc.](https://auth0.com/)
 
-##### <sup>10</sup> [Flask](https://flask.palletsprojects.com/) is Copyright (c) 2010 Pallets. and licenced under an [BSD 3-Clause "New" or "Revised" License](https://github.com/pallets/flask/blob/main/LICENSE.rst).
+##### <sup>10</sup> [Flask](https://flask.palletsprojects.com/) is Copyright (c) 2010 Pallets and licenced under an [BSD 3-Clause "New" or "Revised" License](https://github.com/pallets/flask/blob/main/LICENSE.rst).
 
-##### <sup>11</sup> [Heroku](https://heroku.com/) is a trademark of [salesforce.com, inc](https://www.salesforce.com/)
+##### <sup>11</sup> [Django](https://www.djangoproject.com/) is Copyright (c) 2005-2022 Django Software Foundation and licenced under an [BSD 3-Clause "New" or "Revised" License](https://github.com/django/django/blob/main/LICENSE).
+
+##### <sup>12</sup> [Heroku](https://heroku.com/) is a trademark of [salesforce.com, inc](https://www.salesforce.com/)
 
 
 
