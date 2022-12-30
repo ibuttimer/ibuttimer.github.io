@@ -4,7 +4,6 @@ A software developer, with varied and extensive experience:
 * Java, Android, C/C++ and Python
 * Software Development Life Cycle
 * Software Quality Processes (CMMI, ISO TickIT)
-* Spring Boot, Jenkins, Docker, Microservices, Postman, JUnit
 * PostgreSQL/MySQL
 * Full Stack Development (Django, MongoDB/Express/Angular (Ionic)/Node.js)
 * Data Analytics (Machine Learning, Hadoop)
