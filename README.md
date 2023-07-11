@@ -8,7 +8,7 @@ A software developer, with varied and extensive experience:
 * Full Stack Development
 * Data Analytics (Machine Learning, Hadoop)
 
-<a href="https://www.linkedin.com/in/ianbuttimer/"><img src="assets/img/LI-In-Bug.png" width="20"/></a> 
+<a href="https://www.linkedin.com/in/ianbuttimer/" target="_blank" rel="noopener"><img src="assets/img/LI-In-Bug.png" width="20"/></a> 
 [linkedin.com/in/ianbuttimer](https://www.linkedin.com/in/ianbuttimer/)
 
 
@@ -25,7 +25,7 @@ A Full Stack E-commerce recipe subscription and shopping application. It utilise
 
 | Build with | Code on GitHub|
 |-|-|
-| <a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" width="70" style="background-color: black;"/></a><sub>11</sub> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> | [Recipes-n-stuff](https://github.com/ibuttimer/recipes-n-stuff) |
+| <a href="https://www.djangoproject.com/" target="_blank" rel="noopener"><img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" width="70" style="background-color: black;"/></a><sub>11</sub> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> | [Recipes-n-stuff](https://github.com/ibuttimer/recipes-n-stuff) |
 
 
 ### SoapBox
@@ -37,7 +37,7 @@ A Full Stack application platform that allows users to post opinions and comment
 
 | Build with | Code on GitHub|
 |-|-|
-| <a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" width="70" style="background-color: black;"/></a><sub>11</sub> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> | [SoapBox](https://github.com/ibuttimer/soapbox) |
+| <a href="https://www.djangoproject.com/" target="_blank" rel="noopener"><img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" width="70" style="background-color: black;"/></a><sub>11</sub> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> | [SoapBox](https://github.com/ibuttimer/soapbox) |
 
 
 ### TeamPicker
@@ -51,7 +51,7 @@ It consists a lightweight [WSGI](https://wsgi.readthedocs.io/) web application, 
 
 | Build with | Code on GitHub|
 |-|-|
-| <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/pallets/flask/main/artwork/logo-full.svg" width="70" style="background-color: white;"/></a><sub>10</sub> <a href="https://auth0.com/"><img src="assets/img/brand%20evolution_logo_Auth0_white.png" width="70"/></a><sub>9</sub> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> | [TeamPicker](https://github.com/ibuttimer/TeamPicker) |
+| <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener"><img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-horizontal.png" width="70" style="background-color: white;"/></a><sub>10</sub> <a href="https://auth0.com/"><img src="assets/img/brand%20evolution_logo_Auth0_white.png" width="70"/></a><sub>9</sub> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> | [TeamPicker](https://github.com/ibuttimer/TeamPicker) |
 
 ### L2CeCommerce
 
@@ -66,7 +66,7 @@ The application consists of:
 
 | Build with | Code on GitHub|
 |-|-|
-| <a href="https://spring.io"><img src="assets/img/spring-logo.svg" width="100"/></a><sub>6</sub> <a href="https://angularjs.org/"><img src="assets/img/angular.png" width="40"/></a><sub>7</sub> <a href="https://www.okta.com/"><img src="assets/img/Logo_Okta_Blue_RGB.png" width="70"/></a><sub>8</sub> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> | [L2CEcommerceBe](https://github.com/ibuttimer/L2CEcommerceBe),  [L2CeCommerceFe](https://github.com/ibuttimer/L2CeCommerceFe) |
+| <a href="https://spring.io" target="_blank" rel="noopener"><img src="assets/img/spring-logo.svg" width="100"/></a><sub>6</sub> <a href="https://angularjs.org/" target="_blank" rel="noopener"><img src="assets/img/angular.png" width="40"/></a><sub>7</sub> <a href="https://www.okta.com/" target="_blank" rel="noopener"><img src="assets/img/Logo_Okta_Blue_RGB.png" width="70"/></a><sub>8</sub> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> | [L2CEcommerceBe](https://github.com/ibuttimer/L2CEcommerceBe),  [L2CeCommerceFe](https://github.com/ibuttimer/L2CeCommerceFe) |
 
 
 
@@ -100,9 +100,9 @@ The application consists of:
 ###### Acknowledgements
 
 - Favicon generated with https://favicon.io (via [@johnsorrentino](https://twitter.com/johnsorrentino))
-- <a href="https://icons8.com/icon/13679/java">Java icon by Icons8</a>, 
-<a href="https://icons8.com/icon/13441/python">Python icon by Icons8</a>, 
-<a href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>, 
-<a href="https://icons8.com/icon/uJM6fQYqDaZK/typescript">TypeScript icon by Icons8</a>
+- <a href="https://icons8.com/icon/13679/java" target="_blank" rel="noopener">Java icon by Icons8</a>, 
+<a href="https://icons8.com/icon/13441/python" target="_blank" rel="noopener">Python icon by Icons8</a>, 
+<a href="https://icons8.com/icon/108784/javascript" target="_blank" rel="noopener">JavaScript icon by Icons8</a>, 
+<a href="https://icons8.com/icon/uJM6fQYqDaZK/typescript" target="_blank" rel="noopener">TypeScript icon by Icons8</a>
 
  
