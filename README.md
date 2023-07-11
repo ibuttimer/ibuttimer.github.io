@@ -5,7 +5,7 @@ A software developer, with varied and extensive experience:
 * Software Development Life Cycle
 * Software Quality Processes (CMMI, ISO TickIT)
 * PostgreSQL/MySQL
-* Full Stack Development (Django, MongoDB/Express/Angular (Ionic)/Node.js)
+* Full Stack Development
 * Data Analytics (Machine Learning, Hadoop)
 
 <a href="https://www.linkedin.com/in/ianbuttimer/"><img src="assets/img/LI-In-Bug.png" width="20"/></a> 
@@ -16,12 +16,23 @@ A software developer, with varied and extensive experience:
 A sample of the projects worked on:
 
 
+### Recipes 'N' Stuff
+
+A Full Stack E-commerce recipe subscription and shopping application. It utilises a subscription-based access model, with the option to optionally purchase the required ingredients.
+
+#### Try it out on [<img src="assets/img/render.png" width="130"/>](https://recipesnstuff.onrender.com)
+
+
+| Build with | Code on GitHub|
+|-|-|
+| <a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" width="70" style="background-color: black;"/></a><sub>11</sub> <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35"/> | [Recipes-n-stuff](https://github.com/ibuttimer/recipes-n-stuff) |
+
+
 ### SoapBox
 
-A full stack application platform that allows users to post opinions and comments, and engage in online discussions.
+A Full Stack application platform that allows users to post opinions and comments, and engage in online discussions.
 
-#### Try it out
- [<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://soapbox-opinions.herokuapp.com/)
+#### Try it out on [<img src="assets/img/render.png" width="130"/>](https://soapbox.onrender.com)
 
 
 | Build with | Code on GitHub|
@@ -35,8 +46,7 @@ A full stack application providing management of sports teams.
 
 It consists a lightweight [WSGI](https://wsgi.readthedocs.io/) web application, which serves the UI and provides database integration.
 
-#### Try it out
- [<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://teampicker-fswd.herokuapp.com/)
+#### Try it out on [<img src="assets/img/render.png" width="130"/>](https://teampicker.onrender.com)
 
 
 | Build with | Code on GitHub|
@@ -52,37 +62,11 @@ The application consists of:
 - A [Spring Boot](https://spring.io/projects/spring-boot) / [Spring Data](https://spring.io/projects/spring-data) server application
 - An [Angular](https://angular.io/) frontend application
 
-#### Try it out
-[<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://l2cecommercefe.herokuapp.com/)
+#### Try it out on [<img src="assets/img/render.png" width="130"/>](https://l2cecommercefe.onrender.com/)
 
 | Build with | Code on GitHub|
 |-|-|
 | <a href="https://spring.io"><img src="assets/img/spring-logo.svg" width="100"/></a><sub>6</sub> <a href="https://angularjs.org/"><img src="assets/img/angular.png" width="40"/></a><sub>7</sub> <a href="https://www.okta.com/"><img src="assets/img/Logo_Okta_Blue_RGB.png" width="70"/></a><sub>8</sub> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> | [L2CEcommerceBe](https://github.com/ibuttimer/L2CEcommerceBe),  [L2CeCommerceFe](https://github.com/ibuttimer/L2CeCommerceFe) |
-
-
-### CanvassTrac
-
-An application to collect and track the results of election campaign canvasses.
-
-The application suite consists of three individual elements:
-
-- A server application
-- A management web application
- 
-    To facilitate the creation and configuration of canvasses and their associated surveys.
-
-- A mobile client application
-    
-    For the use of canvassers on the ground to collect voter data.
-
-#### Try it out
-[<img src="assets/img/built-on-heroku-light.svg" width="130"/>](https://canvasstrac.herokuapp.com/) or watch a demonstration on [YouTube](https://www.youtube.com/watch?v=h9E-NAwXZm8). 
-
-Canvasstrac-mobile app <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="height:40px;">
-
-| Build with | Code on GitHub|
-|-|-|
-| <a href="https://nodejs.dev/"><img src="assets/img/nodejs-new-pantone-black.svg" width="50"/></a><sub>1</sub> <a href="https://www.mongodb.com/"><img src="assets/img/Logo_RGB_Spring-Green.png" width="100"/></a><sub>2</sub> <a href="https://expressjs.com/" style="color: white;">Express</a> <sub>3</sub> <a href="https://angularjs.org/"><img src="assets/img/angular.png" width="40"/></a><sub>4</sub> <a href="https://ionicframework.com/"><img src="assets/img/Ionic_Logo.svg.png" width="90"/></a><sub>5</sub> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40"/> | [canvasstrac-server](https://github.com/ibuttimer/canvasstrac-server),  [canvasstrac-mgmt](https://github.com/ibuttimer/canvasstrac-mgmt),  [canvasstrac-mobile](https://github.com/ibuttimer/canvasstrac-mobile) |
 
 
 
@@ -109,7 +93,7 @@ Canvasstrac-mobile app <img alt="Get it on Google Play" src="https://play.google
 
 ##### <sup>11</sup> [Django](https://www.djangoproject.com/) is Copyright (c) 2005-2022 Django Software Foundation and licenced under an [BSD 3-Clause "New" or "Revised" License](https://github.com/django/django/blob/main/LICENSE).
 
-##### <sup>12</sup> [Heroku](https://heroku.com/) is a trademark of [salesforce.com, inc](https://www.salesforce.com/)
+##### <sup>12</sup> [Render](https://render.com/) is a trademark of [Render Services, Inc.](https://render.com/)
 
 
 
